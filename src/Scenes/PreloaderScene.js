@@ -4,6 +4,7 @@ import button2 from '../assets/ui/blue_button03.png';
 import logo from '../assets/logo.png';
 import box from '../assets/ui/grey_box.png';
 import checkbox from '../assets/ui/blue_boxCheckmark.png';
+// import theme from '../assets/TownTheme.mp3';
 
  
 export default class PreloaderScene extends Phaser.Scene {
